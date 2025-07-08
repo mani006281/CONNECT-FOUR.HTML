@@ -16,4 +16,4 @@ I created this Connect Four game using just HTML, CSS, and JavaScript. It’s a 
 
 
 
-Ask ChatGPT
+
